@@ -1,0 +1,8 @@
+Error in `[.data.frame`(normal, , c("probe", "chr", "probe_start", "probe_end",  : 
+  undefined columns selected
+Calls: classify.eCNV -> [ -> [.data.frame
+Execution halted
+Error in `$<-.data.frame`(`*tmp*`, "logR", value = -0.164938243726827) : 
+  replacement has 1 rows, data has 0
+Calls: classify.eCNV -> $<- -> $<-.data.frame
+Execution halted

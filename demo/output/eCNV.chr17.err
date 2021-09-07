@@ -1,0 +1,12 @@
+Error in `[.data.frame`(normal, , c("probe", "chr", "probe_start", "probe_end",  : 
+  undefined columns selected
+Calls: classify.eCNV -> [ -> [.data.frame
+Execution halted
+Error in `$<-.data.frame`(`*tmp*`, "logR", value = c(-0.27320010868203,  : 
+  replacement has 30 rows, data has 29
+Calls: classify.eCNV -> $<- -> $<-.data.frame
+Execution halted
+There were 14 warnings (use warnings() to see them)
+There were 14 warnings (use warnings() to see them)
+There were 14 warnings (use warnings() to see them)
+There were 14 warnings (use warnings() to see them)
